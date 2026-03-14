@@ -1,0 +1,50 @@
+# =============== #
+# Unity .gitignore #
+# =============== #
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+[Bb]ee/
+
+# Visual Studio
+.vs/
+
+# Package Cache
+[Ll]ibrary/PackageCache/
+
+# Android / iOS / Xcode / Gradle
+.gradle/
+*.apk
+*.aab
+*.unitypackage
+*.xcworkspace/
+*.xcuserstate
+*.xcodeproj/
+
+# VS / Rider IDE stuff
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Crash / debug
+*.stackdump
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
