@@ -13,7 +13,7 @@ A small 2D Balloon Popper Game made with Unity Engine.
 
 Pop the balloons before they escape!
 Each balloon gives you points. 
-How high can you score?
+How high can you score? Let's see....
 
 ## Project Status
 
